@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Limen avatar">
+  <!-- solid dark background (GitHub crops avatars to circle) -->
+  <rect width="1024" height="1024" fill="#0f172a"/>
+
+  <!-- doorway mark, centered, sized for small-display readability -->
+  <g stroke="#f8fafc" stroke-linecap="square" fill="none">
+    <!-- left post -->
+    <line x1="310" y1="270" x2="310" y2="730" stroke-width="56"/>
+    <!-- right post -->
+    <line x1="714" y1="270" x2="714" y2="730" stroke-width="56"/>
+    <!-- lintel -->
+    <line x1="262" y1="270" x2="762" y2="270" stroke-width="56"/>
+    <!-- threshold (emphasized) -->
+    <line x1="200" y1="730" x2="824" y2="730" stroke-width="96"/>
+  </g>
+</svg>
