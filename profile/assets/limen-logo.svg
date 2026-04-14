@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" role="img" aria-label="Limen">
+  <!-- doorway symbol -->
+  <g stroke="currentColor" stroke-linecap="square" fill="none">
+    <!-- left post -->
+    <line x1="16" y1="14" x2="16" y2="60" stroke-width="4"/>
+    <!-- right post -->
+    <line x1="62" y1="14" x2="62" y2="60" stroke-width="4"/>
+    <!-- lintel (top) -->
+    <line x1="10" y1="14" x2="68" y2="14" stroke-width="4"/>
+    <!-- threshold (bottom, emphasized) -->
+    <line x1="6" y1="60" x2="72" y2="60" stroke-width="7"/>
+  </g>
+  <!-- wordmark -->
+  <text x="90" y="52" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="400" letter-spacing="2" fill="currentColor">LIMEN</text>
+</svg>
