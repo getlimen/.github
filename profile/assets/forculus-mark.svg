@@ -1,12 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Forculus mark">
-  <!-- a door panel with planks -->
-  <g stroke="currentColor" fill="none" stroke-width="4" stroke-linecap="square">
-    <!-- panel outline -->
+  <g stroke="#f8fafc" fill="none" stroke-width="4" stroke-linecap="square">
     <rect x="18" y="12" width="44" height="56"/>
-    <!-- planks (vertical dividers) -->
     <line x1="33" y1="12" x2="33" y2="68"/>
     <line x1="47" y1="12" x2="47" y2="68"/>
-    <!-- handle -->
-    <circle cx="55" cy="40" r="2" fill="currentColor"/>
+    <circle cx="55" cy="40" r="2" fill="#f8fafc"/>
   </g>
 </svg>

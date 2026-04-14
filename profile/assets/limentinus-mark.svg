@@ -1,16 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Limentinus mark">
-  <!-- a door hinge: plates + pin -->
-  <g stroke="currentColor" stroke-linecap="square" fill="none" stroke-width="4">
-    <!-- left plate -->
+  <g stroke="#f8fafc" stroke-linecap="square" fill="none" stroke-width="4">
     <rect x="10" y="20" width="22" height="40"/>
-    <!-- right plate -->
     <rect x="48" y="20" width="22" height="40"/>
-    <!-- pin (central barrel) -->
     <line x1="40" y1="14" x2="40" y2="66" stroke-width="8"/>
-    <!-- plate screws -->
-    <circle cx="17" cy="28" r="1.5" fill="currentColor"/>
-    <circle cx="17" cy="52" r="1.5" fill="currentColor"/>
-    <circle cx="63" cy="28" r="1.5" fill="currentColor"/>
-    <circle cx="63" cy="52" r="1.5" fill="currentColor"/>
+    <circle cx="17" cy="28" r="1.5" fill="#f8fafc"/>
+    <circle cx="17" cy="52" r="1.5" fill="#f8fafc"/>
+    <circle cx="63" cy="28" r="1.5" fill="#f8fafc"/>
+    <circle cx="63" cy="52" r="1.5" fill="#f8fafc"/>
   </g>
 </svg>
