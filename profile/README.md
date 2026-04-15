@@ -28,10 +28,22 @@ Named after Roman doorway deities — the Romans had a specific deity for each p
 
 <table>
   <tr>
-    <td align="center" width="25%"><img src="./assets/limen-mark.svg" width="64"/><br><b>limen</b><br><em>threshold</em><br><sub>central manager</sub></td>
-    <td align="center" width="25%"><img src="./assets/ostiarius-mark.svg" width="64"/><br><b>ostiarius</b><br><em>doorkeeper</em><br><sub>reverse proxy + TLS</sub></td>
-    <td align="center" width="25%"><img src="./assets/forculus-mark.svg" width="64"/><br><b>forculus</b><br><em>door panel</em><br><sub>WireGuard hub</sub></td>
-    <td align="center" width="25%"><img src="./assets/limentinus-mark.svg" width="64"/><br><b>limentinus</b><br><em>threshold guardian</em><br><sub>node agent</sub></td>
+    <td align="center" width="25%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/limen-mark-dark.svg"><img src="./assets/limen-mark-light.svg" width="64" alt="limen"/></picture>
+      <br><b>limen</b><br><em>threshold</em><br><sub>central manager</sub>
+    </td>
+    <td align="center" width="25%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ostiarius-mark-dark.svg"><img src="./assets/ostiarius-mark-light.svg" width="64" alt="ostiarius"/></picture>
+      <br><b>ostiarius</b><br><em>doorkeeper</em><br><sub>reverse proxy + TLS</sub>
+    </td>
+    <td align="center" width="25%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/forculus-mark-dark.svg"><img src="./assets/forculus-mark-light.svg" width="64" alt="forculus"/></picture>
+      <br><b>forculus</b><br><em>door panel</em><br><sub>WireGuard hub</sub>
+    </td>
+    <td align="center" width="25%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/limentinus-mark-dark.svg"><img src="./assets/limentinus-mark-light.svg" width="64" alt="limentinus"/></picture>
+      <br><b>limentinus</b><br><em>threshold guardian</em><br><sub>node agent</sub>
+    </td>
   </tr>
 </table>
 
